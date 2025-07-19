@@ -1,0 +1,11 @@
+Appendix A: Quantum Gravity Renormalization Proof
+Theorem: 2D-2T gravity is perturbatively renormalizable at all loops.
+Proof Outline:
+1. The t₂-dependence modifies the graviton propagator as:
+D(k) → (k² + f(t₂))⁻¹
+2. Loop integrals become:
+∫d²k dt₂ D(k)ⁿ < ∞ ∀n
+3. BRS symmetry extends to include t₂-gauge invariance
+This fails in 3D-1T because ∫d³k (k²)⁻ⁿ diverges for n≥2.
+Here’s the formatted version with Word-compatible equations (using Unicode and simple
+formatting):
